@@ -1,2 +1,2 @@
-<h2> PoTRA_API </h2>
+<h1> PoTRA API </h1>
 
