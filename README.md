@@ -14,8 +14,8 @@
     
     Other options for 'primarysite=': breast, colorectal, kidney, liver, lung, prostate and thyroid
 <h3>Questions and Comments</h3>
-Please post your questions and comments in the issues tab. Thank you!
+<p>Please post your questions and comments in the issues tab. Thank you!</p>
 
 
 <h3>Cite Our Work</h3>
-Linan M, Wang J, Dinu V. Pan-Cancer Exploration of mRNA Mediated Dysregulated Pathways in the Cancer Genomics Cloud. (In-Preparation) 
+<p>Linan M, Wang J, Dinu V. Pan-Cancer Exploration of mRNA Mediated Dysregulated Pathways in the Cancer Genomics Cloud. (In-Preparation) </p>
