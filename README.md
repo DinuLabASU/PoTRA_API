@@ -12,6 +12,7 @@
  
     python PoTRA_API_Client.py primarysite=kidney
     
+    Other options for 'primarysite=': breast, colorectal, kidney, liver, lung, prostate and thyroid
 <h3>Questions and Comments</h3>
 Please post your questions and comments in the issues tab. Thank you!
 
