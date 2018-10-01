@@ -1,7 +1,7 @@
 <h1> PoTRA API </h1>
 
 <h3> Welcome </h3>
-<p>The PoTRA API is a publicly available resource for searchable protein-coding and ranked mRNA mediated dysregulated pathways from a open-access TCGA Pan-Cancer Study (manuscript in-preparation). The TCGA Pan-Cancer study is a collaboration between the Mayo Clinic, Arizona State University and Seven Bridges Cancer Genomics Cloud. </p>
+<p>The PoTRA API is a publicly available resource for searchable protein-coding and ranked mRNA mediated dysregulated pathways from a open-access TCGA Pan-Cancer Study (manuscript in-preparation). The TCGA Pan-Cancer study is a collaboration between the Mayo Clinic, Arizona State University and Seven Bridges Cancer Genomics Cloud and is funded by NCI. </p>
 
 <h3> The Pan-Cancer Analysis </h3>
 <p>The PoTRA algorithm was applied to the open-access TCGA cancer study data (more details in the manuscript) in the Seven Bridges Cancer Genomics Cloud. </p>
