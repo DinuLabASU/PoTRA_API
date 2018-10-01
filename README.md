@@ -8,8 +8,10 @@
 
 <h3> Ranked and Dysregulated Pathways </h3>
 <p>The co-author of the manuscript in preparation, Margaret Linan created two APIs to make the results of the study publicly available.
- The results of the study can be found at the following link, and by downloading and running the PoTRA API Client (Python 3.6). 
-  
+ The results of the study can be found at the following link, and by downloading and running the PoTRA API Client (Python 3.6). </p>
+ 
+    python PoTRA_API_Client.py primarysite=kidney
+    
 <h3>Questions and Comments</h3>
 Please post your questions and comments in the issues tab. Thank you!
 
